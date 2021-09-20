@@ -12,17 +12,17 @@ Changes:
  .
    * Initial Release
 Checksums-Sha1:
- 7abcde53d870e633f36d2b8d7074bf5e2648a942 1021 ext-nginx_1.0.0-1.dsc
- ab89af0e47e5beaca096c6c0cf98058b9bd789ca 1360 ext-nginx_1.0.0.orig.tar.xz
+ 5a21beb1bcd5b8b9830fbdb2f5fb2ec4c0a2deb1 1021 ext-nginx_1.0.0-1.dsc
+ 03b88b3e7f2e919614ce37af2a1b7413c6ab6a5c 1360 ext-nginx_1.0.0.orig.tar.xz
  cd11cc14d276947a0522bd4c0f643aec1ffe8d4d 744 ext-nginx_1.0.0-1.debian.tar.xz
- ef516e96a3ec1c65aa6d684e6dd1880bd2f5c2d8 4399 ext-nginx_1.0.0-1_source.buildinfo
+ b16cff14a488b0d0625b8c18becb0e72b041165e 4399 ext-nginx_1.0.0-1_source.buildinfo
 Checksums-Sha256:
- 373153601153b410b27b82ba53189e3ed670024bacfcc77aae8c18a54c27f266 1021 ext-nginx_1.0.0-1.dsc
- 3d5da4c1ffc2334ba86d367c6f276dc15fd23eff26632f171c52f275ac36f200 1360 ext-nginx_1.0.0.orig.tar.xz
+ 19ecfafadb5cb6039279fbaa35e579d3e80d3fc2459422e7d2769750e1afca3e 1021 ext-nginx_1.0.0-1.dsc
+ fd89245b4cb4cf42c74ce638491d048a5419999afffeb5c0ea6552e5e5f5c137 1360 ext-nginx_1.0.0.orig.tar.xz
  0e2c39f4ac597a35ab6b838189091a7c7100ed514eedbf8f6335cfea974d8a15 744 ext-nginx_1.0.0-1.debian.tar.xz
- faa2cad56fc254e075367956272c038e7ebb4d78d60e04ae2e3297487ead82c6 4399 ext-nginx_1.0.0-1_source.buildinfo
+ 83ba209a8c3c0aab6ad1345bc88bcaafedeff08fd7bc08e080800e5748cda09b 4399 ext-nginx_1.0.0-1_source.buildinfo
 Files:
- 0f20f1750aa17438e88ea4d5778c4858 1021 admin optional ext-nginx_1.0.0-1.dsc
- db5318eccf103c1b38396364ceb1823f 1360 admin optional ext-nginx_1.0.0.orig.tar.xz
+ fd0e61c92b4c2ca197a783c4ef078402 1021 admin optional ext-nginx_1.0.0-1.dsc
+ 58fd80b3ecefe0a81e2dd61882b62150 1360 admin optional ext-nginx_1.0.0.orig.tar.xz
  159481230421a6d08cd19df450fff254 744 admin optional ext-nginx_1.0.0-1.debian.tar.xz
- 7656d316182cb5fefb807145791f7748 4399 admin optional ext-nginx_1.0.0-1_source.buildinfo
+ 8a77671439c8e09efbce021c1f4a18f9 4399 admin optional ext-nginx_1.0.0-1_source.buildinfo
