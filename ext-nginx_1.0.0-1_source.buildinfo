@@ -3,14 +3,14 @@ Source: ext-nginx
 Architecture: source
 Version: 1.0.0-1
 Checksums-Md5:
- fd0e61c92b4c2ca197a783c4ef078402 1021 ext-nginx_1.0.0-1.dsc
+ dcc3619288c09ea1750b05c6658592f1 1002 ext-nginx_1.0.0-1.dsc
 Checksums-Sha1:
- 5a21beb1bcd5b8b9830fbdb2f5fb2ec4c0a2deb1 1021 ext-nginx_1.0.0-1.dsc
+ 79e2c0ef3e198fc3b9284f7fe5811dc7bac80220 1002 ext-nginx_1.0.0-1.dsc
 Checksums-Sha256:
- 19ecfafadb5cb6039279fbaa35e579d3e80d3fc2459422e7d2769750e1afca3e 1021 ext-nginx_1.0.0-1.dsc
+ df281fed43b0388b2ee6dd5ccdbf97da019eeb521ee325dc4eacc583b2d0f77b 1002 ext-nginx_1.0.0-1.dsc
 Build-Origin: Debian
 Build-Architecture: amd64
-Build-Date: Mon, 20 Sep 2021 08:54:19 +0000
+Build-Date: Tue, 28 Sep 2021 14:20:26 +0000
 Installed-Build-Depends:
  autoconf (= 2.69-14),
  automake (= 1:1.16.3-2),
@@ -138,7 +138,7 @@ Installed-Build-Depends:
  libuuid1 (= 2.36.1-8),
  libxml2 (= 2.9.10+dfsg-6.7),
  libzstd1 (= 1.4.8+dfsg-2.1),
- linux-libc-dev (= 5.10.46-4),
+ linux-libc-dev (= 5.10.46-5),
  login (= 1:4.8.1-1),
  lsb-base (= 11.1.0),
  m4 (= 1.4.18-5),

@@ -9,15 +9,15 @@ Homepage: https://pkgstore.gitlab.io
 Standards-Version: 4.5.1
 Vcs-Browser: https://github.com/pkgstore/linux-deb-ext-nginx
 Vcs-Git: https://github.com/pkgstore/linux-deb-ext-nginx.git
-Build-Depends: debhelper (>= 13), debhelper-compat (= 13)
+Build-Depends: debhelper-compat (= 13)
 Package-List:
  ext-nginx deb admin optional arch=all
 Checksums-Sha1:
- 03b88b3e7f2e919614ce37af2a1b7413c6ab6a5c 1360 ext-nginx_1.0.0.orig.tar.xz
- cd11cc14d276947a0522bd4c0f643aec1ffe8d4d 744 ext-nginx_1.0.0-1.debian.tar.xz
+ 6cbc578a770bd17e73da517417485524d6c6dff0 1364 ext-nginx_1.0.0.orig.tar.xz
+ abe91975e82add1797dd5a5a62b4ca5080d35a56 732 ext-nginx_1.0.0-1.debian.tar.xz
 Checksums-Sha256:
- fd89245b4cb4cf42c74ce638491d048a5419999afffeb5c0ea6552e5e5f5c137 1360 ext-nginx_1.0.0.orig.tar.xz
- 0e2c39f4ac597a35ab6b838189091a7c7100ed514eedbf8f6335cfea974d8a15 744 ext-nginx_1.0.0-1.debian.tar.xz
+ ff2e54f496d87a78384929ac217baab40cf6879ca83f9e085eef97b71d73cadf 1364 ext-nginx_1.0.0.orig.tar.xz
+ 636bf4ef2f47db609ca94011670f04844b8a43f52d28d2f18b13d0fdf514c576 732 ext-nginx_1.0.0-1.debian.tar.xz
 Files:
- 58fd80b3ecefe0a81e2dd61882b62150 1360 ext-nginx_1.0.0.orig.tar.xz
- 159481230421a6d08cd19df450fff254 744 ext-nginx_1.0.0-1.debian.tar.xz
+ ba56cd959c1b6eb3f5da1670ee772676 1364 ext-nginx_1.0.0.orig.tar.xz
+ 6acaae6a2c689da72b61abd79c35c587 732 ext-nginx_1.0.0-1.debian.tar.xz
