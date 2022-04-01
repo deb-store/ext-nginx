@@ -13,11 +13,11 @@ Build-Depends: debhelper-compat (= 13)
 Package-List:
  ext-nginx deb admin optional arch=all
 Checksums-Sha1:
- 6cbc578a770bd17e73da517417485524d6c6dff0 1364 ext-nginx_1.0.0.orig.tar.xz
- abe91975e82add1797dd5a5a62b4ca5080d35a56 732 ext-nginx_1.0.0-1.debian.tar.xz
+ adf23254d3697d5f99bf8357916dc45e569c563d 1684 ext-nginx_1.0.0.orig.tar.xz
+ 50b1fc549509dedf159ddb4f3c2cad57b2c671b3 784 ext-nginx_1.0.0-1.debian.tar.xz
 Checksums-Sha256:
- ff2e54f496d87a78384929ac217baab40cf6879ca83f9e085eef97b71d73cadf 1364 ext-nginx_1.0.0.orig.tar.xz
- 636bf4ef2f47db609ca94011670f04844b8a43f52d28d2f18b13d0fdf514c576 732 ext-nginx_1.0.0-1.debian.tar.xz
+ ff052eb634fe12b9ae88952f2a8a3aceff1f991d4395002451886c85a95af3ed 1684 ext-nginx_1.0.0.orig.tar.xz
+ bcad0b240fbfda64839ea148880662f3fdbb63803b74e8bf23c7664974035f91 784 ext-nginx_1.0.0-1.debian.tar.xz
 Files:
- ba56cd959c1b6eb3f5da1670ee772676 1364 ext-nginx_1.0.0.orig.tar.xz
- 6acaae6a2c689da72b61abd79c35c587 732 ext-nginx_1.0.0-1.debian.tar.xz
+ 9bb4d6bd024024ed6c81adc392b4f6e3 1684 ext-nginx_1.0.0.orig.tar.xz
+ 1d1178a31344d8fc469c415c3d800ff3 784 ext-nginx_1.0.0-1.debian.tar.xz

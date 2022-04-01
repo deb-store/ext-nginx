@@ -10,7 +10,10 @@ dh clean
  dpkg-source -i -b .
 dpkg-source: info: using source format '3.0 (quilt)'
 dpkg-source: info: building ext-nginx using existing ./ext-nginx_1.0.0.orig.tar.xz
-dpkg-source: warning: ignoring deletion of file nginx.custom.conf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of directory sites-available
+dpkg-source: warning: ignoring deletion of file sites-available/00-default.conf, use --include-removal to override
+dpkg-source: warning: ignoring deletion of directory conf.d
+dpkg-source: warning: ignoring deletion of file conf.d/nginx.custom.conf, use --include-removal to override
 dpkg-source: info: building ext-nginx in ext-nginx_1.0.0-1.debian.tar.xz
 dpkg-source: info: building ext-nginx in ext-nginx_1.0.0-1.dsc
  dpkg-genbuildinfo --build=source
@@ -21,6 +24,7 @@ dpkg-buildpackage: info: full upload (original source is included)
 Now running lintian ext-nginx_1.0.0-1_source.changes ...
 warning: running with root privileges is not recommended!
 W: ext-nginx source: maintainer-also-in-uploaders
+W: ext-nginx source: maintainer-script-lacks-debhelper-token debian/postinst
 W: ext-nginx source: no-debian-copyright-in-source
 W: ext-nginx source: timewarp-standards-version (2019-11-12 < 2020-11-17)
 Finished running lintian.
